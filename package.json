@@ -13,6 +13,10 @@
   "devDependencies": {
     "typescript": "^4.0.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhysmitchell/material-gradient-generator.git"
+  },
   "dependencies": {
     "@types/node": "^14.6.0",
     "material-ui-colors": "^1.0.0"

@@ -1,0 +1,20 @@
+{
+  "name": "material-gradient-generator",
+  "version": "1.2.13",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "@types/node": "^14.6.0",
+    "material-ui-colors": "^1.0.0"
+  }
+}
